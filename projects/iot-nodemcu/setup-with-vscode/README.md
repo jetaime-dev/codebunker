@@ -1,7 +1,8 @@
 # Visual Studio Code Setup
 
-I am more familiar with coding in VScode than Arduino IDE
-It comes with autocomplete and everything you need too.
+I am more familiar with coding in VScode than Arduino IDE \
+It comes with autocomplete and everything you need.
+If you interested too, follow the step below
 
 ## Instructions
 1. Install Arduino extension from microsoft
